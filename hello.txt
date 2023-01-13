@@ -1,3 +1,5 @@
 My first edit after connect to Github
 
 Menambah cabang fitur-a yang induk cabangnya adalah develop
+
+sekarang di cabang rilis akan merge ke cabang master
